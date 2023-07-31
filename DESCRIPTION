@@ -1,6 +1,6 @@
 Package: agora
 Type: Package
-Title: Agora
+Title: Agora - a package for social choice
 Version: 0.1.0
 Author: Alp Kaan Aksu
 Maintainer: Alp Kaan Aksu <hi@alpkaanaksu.com>
