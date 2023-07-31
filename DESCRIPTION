@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Alp Kaan Aksu
 Maintainer: Alp Kaan Aksu <hi@alpkaanaksu.com>
 Description: Implements social choice algorithms in R, enables analysis and execution of collective decision making situations.
-License: CC BY-SA
+License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
